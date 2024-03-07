@@ -100,7 +100,7 @@
 		"type=orthographic"
 	],
 	"defaultEdition": "diplomatic",
-	"defaultViewMode": "collation",
+	"defaultViewMode": "imageText",
 	"proseVersesToggler": true,
 	"defaultTextFlow": "prose",
 	"verseNumberPrinter": 5,
